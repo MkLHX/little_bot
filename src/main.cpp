@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <TB6612FNG.h>
+#include <SparkFun_TB6612.h>
 
 // # Ultrasonic pin
 #define trigPin A5
